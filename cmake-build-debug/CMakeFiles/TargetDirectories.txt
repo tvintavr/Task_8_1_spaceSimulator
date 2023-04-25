@@ -1,0 +1,3 @@
+C:/Users/Azat/CLionProjects/Task_8_1_spaceSimulator/cmake-build-debug/CMakeFiles/Task_8_1_spaceSimulator.dir
+C:/Users/Azat/CLionProjects/Task_8_1_spaceSimulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Azat/CLionProjects/Task_8_1_spaceSimulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
